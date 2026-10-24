@@ -1,0 +1,14 @@
+body{
+    background: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tooobar{
+    margin: 10px;
+}
+
+#board{
+ border: 1px solid black;
+ cursor: crosshair;
+ background: white;
+}
